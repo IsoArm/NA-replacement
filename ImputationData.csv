@@ -1,0 +1,20 @@
+GroupID,RunnerID,FactorCol1,FactorCol2,ValueCol1,ValueCol2
+A1000,H01,Doomben,Good,8,1
+A1000,H02,,Slow,,8
+A1000,H03,Doomben,,17,2
+A1000,H04,Doomben,Good,5,14
+A1000,H05,Gold Coast,Good,8,7
+A1000,H06,,Good,2,17
+B1001,H07,Flemington,Slow,8,2
+B1001,H08,Caulfield,Slow,,
+B1001,H09,Flemington,Good,4,18
+B1001,H10,,Good,,16
+C1002,H11,Doomben,Good,13,14
+C1002,H12,Flemington,Good,19,17
+C1002,H13,Caulfield,Good,10,7
+C1002,H14,,Slow,,15
+C1002,H15,Flemington,Good,5,6
+C1002,H16,,,6,15
+C1002,H17,,Good,18,8
+C1002,H18,,Good,,6
+C1002,H19,Doomben,Good,12,5
